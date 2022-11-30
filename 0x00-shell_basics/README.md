@@ -1,3 +1,3 @@
 #!/bin/bash
-pwd
+Each script must be two lines
 
