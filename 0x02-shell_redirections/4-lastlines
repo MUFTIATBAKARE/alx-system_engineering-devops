@@ -1,2 +1,2 @@
-#1/bin/bash
+#!/bin/bash
 tail -n 10 my_file 
