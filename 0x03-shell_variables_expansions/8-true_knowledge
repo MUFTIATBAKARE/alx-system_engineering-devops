@@ -1,2 +1,2 @@
 #!/bin/bash
-printenv TRUEKNOWLEDGE="value" + 128 
+echo $((TRUEKNOWLEDGE + 128)) 
