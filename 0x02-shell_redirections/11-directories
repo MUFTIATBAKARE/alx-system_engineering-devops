@@ -1,2 +1,2 @@
 #!/bin/bash
-du | wc -la 
+find . -path './*' | wc -la 
